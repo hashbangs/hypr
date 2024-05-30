@@ -1,5 +1,6 @@
 relevant program-specific window rules I set:
 ```
-// Kitty terminal windows always open as floats in a defined location on-screen
+// Kitty & Thunar windows always open as floats at a defined location on-screen 
+   (see WINDOW RULES)
 // Alacritty terminal opening-mapping is bound to neovim
 ```
