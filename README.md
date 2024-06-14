@@ -4,11 +4,11 @@
 
 **environnement: [hyprmisc](https://github.com/hashbangs/hyprmisc)**
 
-*- Kitty ~ Alacritty*
-*- Fuzzel*
+*- Kitty ~ Alacritty*\
+*- Fuzzel*\
 *- Fish*
 
-*- Waybar:* **[waybar](https://github.com/hashbangs/waybar)**
+*- Waybar:* **[waybar](https://github.com/hashbangs/waybar)**\
 *- Neovim:* **[waybar](https://github.com/hashbangs/nvim)**
 
 
