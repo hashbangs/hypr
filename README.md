@@ -1,6 +1,10 @@
-relevant program-specific rules I set:
+**recent changes**
 ```
-// Kitty & Thunar windows always open as floats at a defined location on-screen 
-   (see WINDOW RULES)
-// Alacritty terminal opening-mapping is bound to neovim
+Hyprland: modules are sourced in the main file
+```
+
+**relevant rules I set:**
+```
+Kitty & Thunar: windows always open as floats at a defined location on-screen 
+Alacritty: terminal opening-mapping is bound to neovim
 ```
