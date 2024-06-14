@@ -8,7 +8,7 @@
 *- Fuzzel*\
 *- Fish*
 *- Waybar:* **[waybar](https://github.com/hashbangs/waybar)**\
-*- Neovim:* **[nvim](https://github.com/hashbangs/nvim)**
+*- Neovim:* **[nvim](https://github.com/hashbangs/nvim)**\
 *- system font: Fira Mono Nerd Font Mono*
 
 recent changes
